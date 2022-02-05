@@ -30,12 +30,6 @@
 </p>
 </br>
 
-## :construction_worker:  Most Used Languages
-</br>
-<p align='center'>
-  <a href="#"><img src="github-readme-stats.vercel.app/api/top-langs/?username=kirankumarjmeshram&show_icons=true&count_private=true&theme=radical%22%20width=%22500%22"></a>
-</p>
-</br>
 
 
 
