@@ -38,7 +38,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishnkumarjm" target="blank"><img src="https://img.shields.io/twitter/follow/krishnkumarjm?logo=twitter&style=for-the-badge" alt="krishnkumarjm" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack,D3.js...**
+- 🌱 I’m currently learning **MERN Stack,DSA...**
 
 - 💬 Ask me about **react, javascript, node, mongoDB...**
 
