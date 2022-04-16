@@ -44,7 +44,9 @@
 
 - 📫 How to reach me **kirankumar21895@gmail.com**
 
-- 👉 Visit my **[Portfolio](https://kirankumar-portfolio.netlify.app/)**
+- <a href="https://kirankumar-portfolio.netlify.app/" target="blank"> 👉 Visit my <b>Portfolio</b></a>
+
+<!-- - 👉 Visit my **[Portfolio](https://kirankumar-portfolio.netlify.app/)** -->
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing)
 
