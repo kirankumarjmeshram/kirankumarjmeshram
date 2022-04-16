@@ -44,11 +44,11 @@
 
 - 📫 How to reach me **kirankumar21895@gmail.com**
 
-- <a href="https://kirankumar-portfolio.netlify.app/" target="blank"> 👉 Visit my <b>Portfolio</b></a>
+-  👉 Visit my  <a href="https://kirankumar-portfolio.netlify.app/" target="_blank"><b> Portfolio</b></a>
 
 <!-- - 👉 Visit my **[Portfolio](https://kirankumar-portfolio.netlify.app/)** -->
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing)
+-  📄 Know about my experiences <a href="https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing" target="_blank"><b> Resume </b></a>
+<!-- - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing) -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
