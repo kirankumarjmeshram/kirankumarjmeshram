@@ -32,22 +32,22 @@
 </br> -->
 
 <h1 align="center">Hi 👋, I'm Kirankumar J Meshram</h1>
-<h3 align="center">A passionate Full Stack Web developer from Mumbai, India</h3>
+<h3 align="center">A passionate Software Engineer from Mumbai, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarjmeshram&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarjmeshram" /> </p>
 
 <p align="left"> <a href="https://twitter.com/krishnkumarjm" target="blank"><img src="https://img.shields.io/twitter/follow/krishnkumarjm?logo=twitter&style=for-the-badge" alt="krishnkumarjm" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack,DSA...**
+- 🌱 I’m currently working on **MERN Stack, Web Dev...**
 
-- 💬 Ask me about **react, javascript, node, mongoDB...**
+- 💬 Ask me about **Web Dev, Blockchain, technology...**
 
 - 📫 How to reach me **kirankumar21895@gmail.com**
 
 -  👉 Visit my  <a href="https://kirankumar-portfolio.netlify.app/" target="_blank"><b> Portfolio</b></a>
 
 <!-- - 👉 Visit my **[Portfolio](https://kirankumar-portfolio.netlify.app/)** -->
--  📄 Know about my experiences <a href="https://drive.google.com/file/d/13ydlaLbzjOa02vid8oCAWv1k_bqC0Wnz/view?usp=sharing" target="_blank"><b> Resume </b></a>
+-  📄 Know about my experiences <a href="[https://drive.google.com/file/d/13ydlaLbzjOa02vid8oCAWv1k_bqC0Wnz/view?usp=sharing](https://drive.google.com/file/d/1I8NJ-bCB0EP4-MVpNNGrWuwY1po-NoGo/view?usp=sharing)" target="_blank"><b> Resume </b></a>
 <!-- - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing) -->
 
 ### Blogs posts
