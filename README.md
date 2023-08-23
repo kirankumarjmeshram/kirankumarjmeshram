@@ -47,7 +47,7 @@
 -  👉 Visit my  <a href="https://kirankumar-portfolio.netlify.app/" target="_blank"><b> Portfolio</b></a>
 
 <!-- - 👉 Visit my **[Portfolio](https://kirankumar-portfolio.netlify.app/)** -->
--  📄 Know about my experiences <a href="[https://drive.google.com/file/d/13ydlaLbzjOa02vid8oCAWv1k_bqC0Wnz/view?usp=sharing](https://drive.google.com/file/d/1I8NJ-bCB0EP4-MVpNNGrWuwY1po-NoGo/view?usp=sharing)" target="_blank"><b> Resume </b></a>
+-  📄 Know about my experiences <a href="https://drive.google.com/file/d/13ydlaLbzjOa02vid8oCAWv1k_bqC0Wnz/view?usp=sharing" target="_blank"><b> Resume </b></a>
 <!-- - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing) -->
 
 ### Blogs posts
