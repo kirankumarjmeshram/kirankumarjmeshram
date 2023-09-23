@@ -1,39 +1,8 @@
-<!-- - 👋 Hi, I’m Kirankumar J Meshram
-- 👀 I’m interested in ... Software Devlopment
-- 🌱 I’m currently learning ....MERN Stack, reactJS, Javascript,DSA...
-- 💞️ I’m looking to collaborate on ... web devlopment projects...
-- 👉 Visit my **[Portfolio](https://kirankumar-portfolio.netlify.app/)**
-- 📫 How to reach me ... mail me at meshramkirankumarj@gmail.com
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarjmeshram&label=Profile%20views&color=0e75b6&style=flat" alt="kiranumar j meshram" /> </h3>
-
-## 🛠 Interests/Skills
-
- </br>
- 
-<div align='center'>
-  
-  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-  
-</div> 
-</br>
-
-## :construction_worker: Stats So Far 
-</br>
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kirankumarjmeshram&show_icons=true&count_private=true&theme=radical%22%20width=%22500%22"></a>
-</p>
-</br> -->
-
 <h1 align="center">Hi 👋, I'm Kirankumar J Meshram</h1>
 <h2 align="center">A passionate Software Engineer from Mumbai, India</h2>
-<h3 align='center'>Experienced Full Stack Web Developer well-versed in MERN stack development. Certified with a strong grasp of modern web technologies, highly skilled in crafting robust and user-friendly applications using MongoDB, Express.js, React.js, and Node.js. Also, possess a foundational understanding of blockchain and Salesforce. Committed to consistently delivering top-notch software solutions while actively driving innovation.</h3>
+
+<h3 align='center'>Experienced Full Stack Web Developer well-versed in MERN stack development. Certified with a strong grasp of modern web technologies, highly skilled in crafting robust and user-friendly applications using MongoDB, Express.js, React.js, and Node.js. Also, possess a foundational understanding of blockchain and Salesforce. Committed to consistently delivering top-notch software solutions while actively driving innovation.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarjmeshram&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarjmeshram" /> </p>
 
