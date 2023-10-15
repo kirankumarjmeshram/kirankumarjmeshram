@@ -20,7 +20,6 @@
 -  📄 Know about my experiences <a href="https://drive.google.com/file/d/13ydlaLbzjOa02vid8oCAWv1k_bqC0Wnz/view?usp=sharing" target="_blank"><b> Resume </b></a>
 <!-- - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1k3LhFPfQ8wFATzK02OwGy8VkX9M0vimr/view?usp=sharing) -->
 
-### Blogs posts
 <!-- BLOG-POST-LIST-->
 
 <h3 align="left">Connect with me:</h3>
