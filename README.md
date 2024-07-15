@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirankumar J Meshram</h1>
-<h2 align="center">A passionate Software Engineer from Mumbai, India</h2>
+<h2 align="center">A passionate Software Developer from Mumbai, India</h2>
 
-<h3 align='center'>Experienced Full Stack Web Developer well-versed in MERN stack development. Certified with a strong grasp of modern web technologies, highly skilled in crafting robust and user-friendly applications using MongoDB, Express.js, React.js, and Node.js. Also, possess a foundational understanding of blockchain and Salesforce. Committed to consistently delivering top-notch software solutions while actively driving innovation.
+<h3 align='center'>Experienced Full Stack Web Developer well-versed in MERN stack development. Certified with a strong grasp of modern web technologies, highly skilled in crafting robust and user-friendly applications using MongoDB, Express.js, React.js, Node.js, svelte . Also, possess a foundational understanding of blockchain and Salesforce. Committed to consistently delivering top-notch software solutions while actively driving innovation.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirankumarjmeshram&label=Profile%20views&color=0e75b6&style=flat" alt="kirankumarjmeshram" /> </p>
