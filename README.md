@@ -9,7 +9,7 @@ Building scalable web applications and AI-powered solutions using <b>React</b>, 
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Engineer;AI+Engineer;Building+Scalable+Applications;React+•+Node.js+•+Python+•+AWS;Generative+AI+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2000&pause=900&color=00C4FF&center=true&vCenter=true&width=950&lines=Software+Engineer;Full+Stack+Engineer;AI+Engineer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Python;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AWS"/>
 </p>
 
 <p align="center">
